@@ -1,0 +1,246 @@
+{
+  "health": [
+    {
+      "Title": "Remote patient monitoring",
+      "Technology": [
+        "Rasberry Pi",
+        "Arduino Programming",
+        "Sensors"
+      ],
+      "shortExp": "Remote patient monitoring (RPM) is a technology to enable monitoring of patients outside of conventional clinical settings, such as in the home or in a remote area, which may increase access to care and decrease healthcare delivery costs. RPM involves the constant remote care of patients by their physicians, often to track physical symptoms, chronic conditions, or post-hospitalization rehab.",
+      "longExp": "Remote patient monitoring is the most common application of IoT devices for healthcare. IoT devices can automatically collect health metrics like heart rate, blood pressure, temperature, and more from patients who are not physically present in a healthcare facility, eliminating the need for patients to travel to the providers, or for patients to collect it themselves, When an IoT device collects patient data, it forwards the data to a software application where healthcare professionals and/or patients can view it. Algorithms may be to analyze the data in order to recommend treatments or generate alerts. For example, an IoT sensor that detects a patient’s unusually low heart rate may generate an alert so that healthcare professionals can intervene,A major challenge with remote patient monitoring devices is ensuring that the highly personal data that these IoT devices collect is secure and private.",
+      "id": 1,
+      "Level": "Easy",
+      "Images": "https://www.aha.org/sites/default/files/2021-09/ms_091421_item1_RPM_620_2011162.jpg"
+    },
+    {
+      "Title": "Glucose monitoring",
+      "Technology": [
+        "Rasberry Pi",
+        "Arduino Programming",
+        "Sensors",
+        "Scanners"
+      ],
+      "shortExp": "A continuous glucose monitor (CGM) is a device for monitoring blood glucose on a continual basis by insulin-requiring people with diabetes, e.g. people with type I, type II diabetes or other types of diabetes (e.g. gestational diabetes).",
+      "longExp": "For the more than 30 million Americans with diabetes, glucose monitoring has traditionally been difficult. Not only is it inconvenient to have to check glucose levels and manually record results, but doing so reports a patient’s glucose levels only at the exact time the test is provided. If levels fluctuate widely, periodic testing may not be sufficient to detect a problem.IoT devices can help address these challenges by providing continuous, automatic monitoring of glucose levels in patients. Glucose monitoring devices eliminate the need to keep records manually, and they can alert patients when glucose levels are problematic,These are not insurmountable challenges, however, and devices that address them promise to revolutionize the way patients handle glucose monitoring.",
+      "id": 2,
+      "Level": "Moderate",
+      "Images": "https://blog-images-1.pharmeasy.in/blog/production/wp-content/uploads/2021/10/25145903/Blog-image-22-oct-3-1.jpg"
+    },
+    {
+      "Title": "Heart-rate monitoring",
+      "Technology": [
+        "Rasberry Pi",
+        "Arduino Programming",
+        "Sensors",
+        "Bluetooth"
+      ],
+      "shortExp": "A heart rate monitor (HRM) is a personal monitoring device that allows one to measure/display heart rate in real time or record the heart rate for later study.",
+      "longExp": "Like glucose, monitoring heart rates can be challenging, even for patients who are present in healthcare facilities. Periodic heart rate checks don’t guard against rapid fluctuations in heart rates, and conventional devices for continuous cardiac monitoring in hospitals require patients to be attached to wired machines constantly, impairing their mobility,Today, a variety of small IoT devices are available for heart rate monitoring, freeing patients to move around as they like while ensuring that their hearts are monitored continuously. Guaranteeing ultra-accurate results remains somewhat of a challenge, but most modern devices can deliver accuracy rates of about 90 percent or better.",
+      "id": 3,
+      "Level": "Moderate",
+      "Images": "https://www.researchgate.net/publication/296332731/figure/fig1/AS:962688750460934@1606534292850/Compact-cardiac-monitoring-devices-Compact-14-day-holter-monitor-left-and-14-day.gif"
+    },
+    {
+      "Title": "Hand hygiene monitoring",
+      "Technology": [
+        "Arduino U370",
+        "Arduino Programming",
+        "Sensors"
+      ],
+      "shortExp": "Hand washing (or handwashing), also known as hand hygiene, is the act of cleaning one's hands with soap or handwash and water to remove viruses/bacteria/microorganisms, dirt, grease, or other harmful and unwanted substances stuck to the hands.",
+      "longExp": "Traditionally, there hasn’t been a good way to ensure that providers and patients inside a healthcare facility washed their hands properly in order to minimize the risk of spreading contagion.Today, many hospitals and other health care operations use IoT devices to remind people to sanitize their hands when they enter hospital rooms. The devices can even give instructions on how best to sanitize to mitigate a particular risk for a particular patient.A major shortcoming is that these devices can only remind people to clean their hands; they can’t do it for them. Still, research suggests that these devices can reduce infection rates by more than 60 percent in hospitals.",
+      "id": 4,
+      "Level": "Easy",
+      "Images": "https://www.oncedaily.co/wp-content/uploads/2020/12/vitalacy-hand-hygiene-monitoring-technology.jpg"
+    },
+    {
+      "Title": "Depression and mood monitoring",
+      "Technology": [
+        "Arduino Programming",
+        "Sensors",
+        "Scanners"
+      ],
+      "shortExp": "Depression is a mental state of low mood and aversion to activity,[3] which affects more than 280 million people of all ages (about 3.5% of the global population).",
+      "longExp": "Information about depression symptoms and patients’ general mood is another type of data that has traditionally been difficult to collect continuously. Healthcare providers might periodically ask patients how they are feeling, but were unable to anticipate sudden mood swings. And, often, patients don’t accurately report their feelings.“Mood-aware” IoT devices can address these challenges. By collecting and analyzing data such as heart rate and blood pressure, devices can infer information about a patient’s mental state. Advanced IoT devices for mood monitoring can even track data such as the movement of a patient’s eyes.The key challenge here is that metrics like these can’t predict depression symptoms or other causes for concern with complete accuracy. But neither can a traditional in-person mental assessment.",
+      "id": 5,
+      "Level": "Difficult",
+      "Images": "https://www.insight.com/content/insight-web/en_US/content-and-resources/2021/future-of-healthcare--internet-of-medical-things/jcr%3Acontent/top-container-width/column_layout_458368662/-column-1/insight_image.img.jpg/1613602403538.jpg"
+    }
+  ],
+  "Environment": [
+    {
+      "Title": "Weather Reporting System",
+      "Technology": [
+        "Rasberry Pi",
+        "Arduino Programming",
+        "Sensors",
+        "Drones"
+      ],
+      "shortExp": "The system constantly monitors temperature using temperature sensor, humidity using humidity sensor and also for rain. The system constantly transmits this data to the microcontroller, which now processes this data and keeps on transmitting it to the online web server over a wifi connection.",
+      "longExp": "Here we propose a smart weather reporting system over the internet. Our proposed system allows for weather parameter reporting over the internet. It allows the people to directly check the weather stats online without the need of a weather forecasting agency. System uses temperature, humidity as well as rain sensor to monitor weather and provide live reporting of the weather statistics. The system constantly monitors temperature using temperature sensor, humidity using humidity sensor and also for rain. The system constantly transmits this data to the microcontroller, which now processes this data and keeps on transmitting it to the online web server over a wifi connection. This data is live updated to be viewed on the online server system. Also system allows user to set alerts for particular instances, the system provides alerts to user if the weather parameters cross those values. Thus the IOT based weather reporting system provides an efficient internet based weather reporting system for users.",
+      "id": 6,
+      "Level": "Easy",
+      "Images": "https://b2bblogassets.airtel.in/wp-content/uploads/2022/03/iot-application-in-weather-monitoring-system-scaled.jpg"
+    },
+    {
+      "Title": "Forest Fire Alarm System",
+      "Technology": [
+        "Arduino IDE",
+        "Cloud API – Thingspeak"
+      ],
+      "shortExp": "Forest fire is getting worse for all these days which can be detected and predicted using NodeMCU based on IoT.",
+      "longExp": "Everyone cognize that, the forest is praise as one of the most significant and compulsory expedient and Forest fire injunction a permanent danger to bionomical systems and environmental aspects. The forest fire detection had become very important issue in the presuppression process which gives rise to the drastic need to perceive forest fires with greatest speed. The expert usage of wireless sensor network as a potentially explanation to the objective of forest fire has been emphatic in this literary. The proposed system depends on various sensors attached to it and the data from wireless transmission, to fulfil the solution process. A small satellite in the system dispatches these sensor data to the station on ground where they are scrutinized. The discourse plan impend on the data from Wireless sensor reticulation for the formerdiscovery of Forest fire.",
+      "id": 7,
+      "Level": "Moderate",
+      "Images": "https://www.milesight-iot.com/wp-content/uploads/2020/06/Smart-IoT-Based-Sensor-Networks-For-Intelligent-CO2-Monitoring-and-Reliable-Forest-Fire-Detection.jpg"
+    },
+    {
+      "Title": "Smart Waste Management System",
+      "Technology": [
+        "Arduino IDE",
+        "Sensors",
+        "Arduino Programming"
+      ],
+      "shortExp": "The system is implemented using two ultrasonic sensors which is being controlled by Node MCU. One of the ultrasonic sensor detects the level of the waste in the bin and other detects the person approaching the bin to dispose the waste. This detection helps in automatic opening and closing of the lid.",
+      "longExp": "Urban India generates tonnes of wastes annually. Our country faces major challenges associated with waste management. Conventional garbage collection is not efficient since the authorities are not notified until the waste bin is full, and this leads to overflow of waste material. Efficient way of waste disposal and collection of disposed garbage is essential for a sustainable and clean India. This paper presents smart waste management using IoT based waste bin for collection and monitoring the level of waste inside bin. The system is implemented using two ultrasonic sensors which is being controlled by Node MCU. One of the ultrasonic sensor detects the level of the waste in the bin and other detects the person approaching the bin to dispose the waste. This detection helps in automatic opening and closing of the lid. Servo motor is connected to the lid which serves the action of closing and opening of the lid. In this system, level of waste in the bin will be sent to concerned authorities. The IoT data is stored and monitored using Blynk app. The proposed system is reliable, cost effective and can be easily implemented.",
+      "id": 8,
+      "Level": "Difficult",
+      "Images": "https://www.rtinsights.com/wp-content/uploads/2019/09/Smart-waste-2.jpg"
+    },
+    {
+      "Title": "Smart Gas Leakage Detector Bot",
+      "Technology": [
+        "Arduino IDE",
+        "Arduino Programming",
+        "Arduino U370",
+        "Sensors"
+      ],
+      "shortExp": "It is a smart gas leakage detector bot which detects the Methane ,Butane ,LPG , smoke ,flammable gasses using MQ2 gas sensor. It buzzer sound when the analogthresh of the sensor crosses the 400.",
+      "longExp": "Gas pipes play very important roles for cities, industries and thus in growing economies. So gas leakages lead to losses as well as are a threat because they can also lead to fire accidents. Placing sensors at each section of pipe is very costly. So here we propose an innovative robot that clings on to the outer surface of the gas pipe and moves with the pipe to check for leakages. The robot consists of gas sensor that is to detect gas leakages. As the robot keeps moving along the metal pipe it keeps monitoring for any gas leakage, On detection it uses an interface gps sensor to transmit location of th leakage detected over to the IOT login system, Here we use IOTgecko to receive and display the gas leakage alert and location over IOT. Thus we have a fully automated insect like robot that moves with the gas pipe and detects gas leakages instantly at a low budget.",
+      "id": 9,
+      "Level": "Difficult",
+      "Images": "https://www.sonoff.in/media/2021/04/Hf2f18041023c488ba8f353d24e0b1ea1D.jpg"
+    },
+    {
+      "Title": "Air Pollution Monitoring System",
+      "Technology": [
+        "Rasberry Pi",
+        "Arduino Programming",
+        "Sensors",
+        "Drones"
+      ],
+      "shortExp": "An Air Quality Monitoring Station (AQMS) is a system that measures metrological parameters such as wind speed, wind direction, rainfall, radiation, temperature, barometric pressure and ambient parameters.",
+      "longExp": "The level of pollution is increasing rapidly due to factors like industries, urbanization, increasing in population, vehicle use which can affect human health. IOT Based Air Pollution Monitoring System is to monitor the Air Quality over a web server using Internet. It will trigger an alarm when the air quality goes down beyond a certain level, means when there are sufficient amount of harmful gases present in the air like CO2, smoke, alcohol, benzene, NH3 and NOx. It will show the air quality in PPM on the LCD and as well as on webpage so that air pollution can be monitored very easily.The system uses MQ135 and MQ6 sensor for monitoring Air Quality as it detects most harmful gases and can measure their amount accurately",
+      "id": 10,
+      "Level": "Moderate",
+      "Images": "https://res.cloudinary.com/tbmg/c_scale,w_900/v1558419561/kiic/entries/2019/20190515025039.INTERFACE.PNG"
+    }
+  ],
+  "Safety": [
+    {
+      "Title": "Night Patrol Robot",
+      "Technology": [
+        "Rasberry Pi",
+        "Arduino Programming",
+        "Sensors",
+        "Drones"
+      ],
+      "shortExp": "Nowadays Women Safety is the biggest concern in many parts of the world. There is still a fear in alone areas for women as well as men. So here we propose a security patrolling robot using Raspberry PI.",
+      "longExp": "The system uses cameras and mic mounted on robotic vehicle for securing any premises. The robotic vehicle moves at particular path and is equipped with camera and sound sensors. It uses a predefined line to follow its path while patrolling. It stops at particular points and moves to next points if sound is detected. The system uses IR based path following system for patrolling assigned area. It monitors each area to detect any problem using combination of two HD cameras. It has the ability to monitor sound in the premises. Robot hears Any sound after area is quite and it starts moving towards the sound on its predefined path. It then scans the area using its camera to detect any human faces detected. It captures and starts transmitting the images of the situation immediately to the IOT website. Here we use IOT gecko for receiving transmitted images and displaying them to user with alert sounds. Thus we put forward a fully autonomous security robot that operates tirelessly and patrols large areas on its own to secure the facility.",
+      "id": 11,
+      "Level": "Moderate",
+      "Images": "https://i.ytimg.com/vi/ZprJHzpmsLk/maxresdefault.jpg"
+    },
+    {
+      "Title": "Priventive  Maintenance",
+      "Technology": [
+        "Rasberry Pi",
+        "Arduino Programming",
+        "Sensors",
+        "Drones"
+      ],
+      "shortExp": "In industries, a deviation from the recommended operating conditions can represent a significant safety risk to workers. ",
+      "longExp": "By extension, monitoring operating conditions can also play an important role in maintenance, specifically preventative maintenance. When data shows that operating conditions aren’t being met, it may suggest that maintenance action for that piece of equipment is required. Close, remote monitoring with IoT solutions enables timely action to be taken, avoiding the unpredictable safety hazards as well as the costs that may come along with complete failure.",
+      "id": 12,
+      "Level": "Difficult",
+      "Images": "https://www.dynaway.com/hs-fs/hubfs/Types%20of%20preventive%20maintenance-1.png?width=813&name=Types%20of%20preventive%20maintenance-1.png"
+    },
+    {
+      "Title": "Employ Failsafes",
+      "Technology": [
+        "Rasberry Pi",
+        "Arduino Programming",
+        "Sensors"
+      ],
+      "shortExp": "In some cases, however, monitoring and alerts may not be sufficient. For example, there may not be sufficient time to take effective action against a detected risk. A momentary lapse in human response to a given situation may also result in system failure",
+      "longExp": "Fortunately, IoT enables large scale implementation of what is known as machine-to-machine (M2M) communication, where different devices can communicate with each other and work in a cooperative relationship without human intervention. M2M communication allows failsafes to be developed using IoT systems, where mitigating actions can be automatically triggered upon an alert in the network. In this manner, a piece of equipment that has been found to be operating anomalously can be shut down immediately by the system and have its workloads rerouted to other machines automatically.",
+      "id": 13,
+      "Level": "Easy",
+      "Images": "https://www.experience.com/resources/wp-content/uploads/sites/4/2021/03/getty_519578900_316016.jpg"
+    },
+    {
+      "Title": "Remote Monitoring: Logistics & Transport",
+      "Technology": [
+        "Rasberry Pi",
+        "Arduino Programming",
+        "Sensors"
+      ],
+      "shortExp": "With 5G wireless transmission technologies like NB-IoT and LoRa / LoRaWAN, long-range, low-power transmission now lends numerous possibilities to new applications in many industries. Among them, however, the logistics and transport sectors may have the most to benefit from improvements in road safety.",
+      "longExp": "Transport operators spend countless hours daily on the road, with constant exposure to risks of road traffic injury. With IoT, remote monitoring can now be achieved to keep track of vehicle movement and driver conditions at regular intervals. On the other hand, reckless driving can also be deterred by monitoring driving behaviours and patterns. Such monitoring can enable better and safer fleet management decisions by deploying only those who are both physically and mentally fit to drive.",
+      "id": 14,
+      "Level": "Easy",
+      "Images": "https://www.peerbits.com/static/972649a946e3b448521a6d7348d57390/189bc/gps-tracking-main.jpg"
+    },
+    {
+      "Title": "Aggregate Monitoring: Efficient Management",
+      "Technology": [
+        "Rasberry Pi",
+        "Arduino Programming",
+        "Sensors"
+      ],
+      "shortExp": "From a managerial perspective, it is extremely challenging to maintain a holistic view of industrial processes and worker conditions. Fortunately, IoT can address some of these challenges through aggregate monitoring – with some help from a human machine interface.",
+      "longExp": "Broadly speaking, HMIs are components of industrial systems that allow humans to conveniently interact with it, usually through a graphical user interface. A well-designed HMI in IoT presents operational data in a comprehensive dashboard, allowing a holistic view of ongoing processes. In addition, it provides alerts and guides plant managers to take corrective actions.For example, Seeed’s ReTerminal is designed to be the most comprehensive and user friendly HMI yet with its 5 inch LCD display, allowing a variety of natural interactions through computer vision, touch, gesture and voice. Powered by the powerful Raspberry Pi Compute Module 4, the ReTerminal is a versatile platform to build your HMI application to keep",
+      "id": 15,
+      "Level": "Moderate",
+      "Images": "https://www.mdpi.com/applsci/applsci-12-03396/article_deploy/html/images/applsci-12-03396-g001.png"
+    }
+  ],
+  "users": [
+    {
+      "name": "Bhargava",
+      "age": 22,
+      "Email": "bhargavurs2000@gmail.com",
+      "PhNo": 7894561230,
+      "id": 16
+    },
+    {
+      "name": "Nihal",
+      "age": "23",
+      "Email": "nihal@gmail.com",
+      "PhNo": "9876543210",
+      "id": 17
+    },
+    {
+      "name": "Keerthi Prasad",
+      "age": "23",
+      "Email": "keerthi@gmail.com",
+      "PhNo": "7418529630",
+      "id": 18
+    },
+    {
+      "name": "Yashwanth",
+      "age": "25",
+      "Email": "yash@gmail.com",
+      "PhNo": "7894561230",
+      "id": 19
+    },
+    {
+      "name": "Manjunatha",
+      "age": "55",
+      "Email": "manju@gmail.com",
+      "PhNo": "9638527410",
+      "id": 20
+    }
+  ]
+}

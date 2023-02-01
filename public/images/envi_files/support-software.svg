@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>support-software</title>
+    <g id="Converted-from-XD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icon-software" stroke="#84C361" stroke-width="2.5">
+            <g id="Group-18" transform="translate(3.000000, 2.000000)">
+                <line x1="18.7712002" y1="13.4198712" x2="25.4578414" y2="13.4198712" id="Stroke-7"></line>
+                <polygon id="Stroke-17" points="13.5744067 17.8843246 18.5744067 17.8843246 18.5744067 9.88432458 13.5744067 9.88432458"></polygon>
+                <line x1="0" y1="13.4768761" x2="9.5" y2="13.5" id="Stroke-5"></line>
+                <line x1="15.0135988" y1="3.55700487" x2="25.4578414" y2="3.55706187" id="Stroke-3"></line>
+                <polygon id="Stroke-14" points="5 8 10 8 10 0 5 0"></polygon>
+                <line x1="7.31557672e-14" y1="4" x2="3.15646139" y2="4.00005816" id="Stroke-1"></line>
+                <line x1="15.0135988" y1="23.5570049" x2="25.4578414" y2="23.5570619" id="Stroke-3"></line>
+                <polygon id="Stroke-14" points="5 28 10 28 10 20 5 20"></polygon>
+                <line x1="7.31557672e-14" y1="24" x2="3.15646139" y2="24.0000582" id="Stroke-1"></line>
+            </g>
+        </g>
+    </g>
+</svg>

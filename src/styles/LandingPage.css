@@ -1,0 +1,75 @@
+.landingPage{
+    background-image: url(../../public/images/iotLP.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 830px;
+    width: 100%;
+    margin-top: 0px;
+}
+.heading{
+    background-color: white;
+    height: 150px;
+    width: 900px;
+    text-decoration: underline;
+    position: fixed;
+    top: 70px;
+    left: 370px;
+    align-items: center;
+
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 5px 5px 8px 10px rgb(8, 95, 171);
+}
+
+.heading h1,h3 {
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+.services{
+    position: fixed;
+    top: 400px;
+    left: 290px;
+    display: flex;
+}
+.health{
+    background-color: white;
+    box-shadow: 5px 5px 8px 10px rgb(8, 95, 171);
+    width: 300px;
+    text-align: center;
+    margin-right: 50px;
+    padding: 10px;
+}
+.health h3{
+    margin-top: 0px;
+}
+.safety{
+    background-color: white;
+    box-shadow: 5px 5px 8px 10px rgb(8, 95, 171);
+    width: 300px;
+    text-align: center;
+    margin-right: 50px;
+    padding: 10px;
+}
+.safety h3{
+    margin-top: 0px;
+}
+.environment{
+    background-color: white;
+    box-shadow: 5px 5px 8px 10px rgb(8, 95, 171);
+    width: 300px;
+    text-align: center;
+    padding: 10px;
+}
+.environment h3{
+    margin-top: 0px;
+}
+button{
+    padding: 7px;
+    font-size: medium;
+    background-color: rgb(8, 95, 171) ;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius: 5px;
+}

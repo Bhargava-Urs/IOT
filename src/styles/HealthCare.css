@@ -1,0 +1,10 @@
+.info{
+    width: 1500px;
+    height: 500px;
+    margin-left: 65px;
+    background-color: rgba(128, 128, 128, 0.224);
+    padding: 25px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-shadow: 10px 0px 15px black;
+}

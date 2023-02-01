@@ -1,0 +1,29 @@
+.addUser{
+    border: 2px solid black;
+      text-align: center;
+      margin-top: 125px;
+      width: 600px;
+  margin-left: 30%;
+  box-shadow: 0px 0px 15px black;
+  }
+  
+  .information input{
+      outline: none;
+      margin: 5px;
+      width: 350px;
+      height: 55px;
+      font-size: medium;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+      border-bottom: 1px solid black;
+  }
+  .add button{
+      padding: 10px;
+      background-color:  rgb(8, 95, 171);
+      color: white;
+      border-radius: 5px;
+      font-size: medium;
+      margin-top: 25px;
+      margin-bottom: 3px;
+  }

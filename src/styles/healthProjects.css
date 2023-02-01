@@ -1,0 +1,29 @@
+.hproject{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   border: 2px solid black;
+   padding: 10px;
+   margin-top: 8px;
+   width: 1200px;
+   margin-left: 200px;
+  border-radius: 20px;
+  box-shadow: 0px 0px 15px black;
+}
+.image{
+    margin-right: 50px;
+}
+.infohealth{
+    width: 700px;
+}
+.btn{
+    border: 1px solid  rgb(8, 95, 171);
+    color: rgb(8, 95, 171) ;
+    background-color: white;
+   width: 150px;
+}
+/* #desc{
+    display: ;
+} */
+
+
